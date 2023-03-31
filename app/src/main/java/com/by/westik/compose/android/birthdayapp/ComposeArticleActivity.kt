@@ -86,7 +86,7 @@ fun ComposeArticleUtil(modifier: Modifier = Modifier) {
 
 @Preview(showBackground = true)
 @Composable
-fun DefaultPreview() {
+fun ComposeArtcilePreview() {
     BirthdayAppTheme {
         ComposeArticleUtil()
     }
