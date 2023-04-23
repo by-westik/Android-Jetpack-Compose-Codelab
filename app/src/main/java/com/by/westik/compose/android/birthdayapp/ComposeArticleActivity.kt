@@ -21,7 +21,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.by.westik.compose.android.birthdayapp.ui.theme.BirthdayAppTheme
 
-//test commit 4
+//test commit 5
 
 class ComposeArticleActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
